@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0796-rotate-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
