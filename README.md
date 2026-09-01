@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
