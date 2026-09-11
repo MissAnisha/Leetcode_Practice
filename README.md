@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [1872-stone-game-viii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
