@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3871-count-commas-in-range-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
