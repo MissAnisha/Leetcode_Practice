@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Recursion
 |  |
 | ------- |
