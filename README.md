@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1872-stone-game-viii) |
 | [3524-find-x-value-of-array-i](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
