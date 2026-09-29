@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0485-max-consecutive-ones](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0912-sort-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
