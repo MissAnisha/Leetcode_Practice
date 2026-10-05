@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -172,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MissAnisha/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
